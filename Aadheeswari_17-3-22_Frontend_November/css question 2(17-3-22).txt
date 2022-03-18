@@ -1,0 +1,7 @@
+2) Which CSS properties are a part of box model?
+
+
+           => Content:  Actual Content of the box where the text or image is placed. 
+           => Padding: Area surrounding the content (Space between the border and content).
+           => Border: Area surrounding the padding.
+           => Margin: Area surrounding the border.

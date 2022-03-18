@@ -1,0 +1,18 @@
+4)  What are Pseudo classes?
+
+
+
+          Pseudo-classes select regular elements but under certain conditions like when the user is hovering over the link.
+
+              => :link
+              => :visited
+              => :hover 
+              => :active
+              => :focus
+
+
+FOR EXAMPLE:-
+
+      a:hover {
+	color: #FFOOFF;
+       }

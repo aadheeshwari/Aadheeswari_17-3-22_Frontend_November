@@ -1,0 +1,5 @@
+5)  What does the :root pseudo-class refer to?
+         
+
+          The :root selector allows you to target the highest-level “parent” element in the DOM, or document tree. It is 
+defined in the CSS Selectors Level 3 specification

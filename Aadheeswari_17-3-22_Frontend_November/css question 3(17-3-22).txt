@@ -1,0 +1,17 @@
+3)  What are Pseudo elements?
+     
+
+     Pseudo-elements allows us to create items that do not normally exist in the document tree, for example ::after.
+
+         => ::before
+         => ::after
+         => ::first-letter
+         => ::first-line
+         => ::selection
+
+FOR EXAMPLE:-
+          
+       p: :first-line {
+	color: #ffOOOO;
+	font-variant: small-caps;
+       }
